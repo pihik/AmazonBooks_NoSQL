@@ -1,0 +1,426 @@
+[{
+  "_id": {
+    "$oid": "6645012c105352967fb6d786"
+  },
+  "name": "Silmarillion",
+  "year_published": 2023,
+  "ISBN": "1234567890",
+  "pageCount": 300,
+  "format": "Hardcover",
+  "edition": "First Edition",
+  "publication_date": "2023-01-01",
+  "weight": 1.5,
+  "genres": {
+    "name": "Fantasy",
+    "description": "Fantasy žáner"
+  },
+  "language": "Slovenský",
+  "publisher": {
+    "name": "Názov vydavateľstva",
+    "founder": "John Doe",
+    "website": "www.vydavatelstvo.sk",
+    "address": {
+      "street": "Ulica 123",
+      "postal_code": "12345",
+      "city": "Mesto",
+      "country": "Krajina",
+      "state": "Štát"
+    }
+  },
+  "bookAwards": [
+    {
+      "date": "2024-01-01",
+      "name": "Názov ceny",
+      "year": 2024,
+      "organization_name": "Názov organizácie"
+    }
+  ],
+  "Authors": [
+    {
+      "first_name": "Ján",
+      "last_name": "Novák",
+      "nationality": "Slovenská",
+      "biography": "Životopis autora",
+      "website": "www.jannovak.com",
+      "birth_date": "1990-01-01"
+    }
+  ],
+  "reviews": [
+    {
+      "user_rating": 4.5,
+      "review_text": "Dobrá kniha.",
+      "review_date": "2024-05-15T12:00:00Z",
+      "user": {
+        "first_name": "Peter",
+        "last_name": "Veselý",
+        "birth_date": "1985-01-01",
+        "gender": "Muž",
+        "age": 39,
+        "email": "peter@vesely.com",
+        "address": {
+          "street": "Hlavná 1",
+          "postal_code": "54321",
+          "city": "Mesto",
+          "country": "Krajina",
+          "state": "Štát"
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66450293105352967fb6d787"
+  },
+  "name": "Pád do tmy",
+  "year_published": 2020,
+  "ISBN": "0987654321",
+  "pageCount": 250,
+  "format": "Paperback",
+  "edition": "Second Edition",
+  "publication_date": "2020-05-20",
+  "weight": 1.2,
+  "genres": {
+    "name": "Sci-Fi",
+    "description": "Sci-fi žáner"
+  },
+  "language": "Anglický",
+  "publisher": {
+    "name": "Iné vydavateľstvo",
+    "founder": "Jane Doe",
+    "website": "www.inevydavatelstvo.com",
+    "address": {
+      "street": "Nová ulica 50",
+      "postal_code": "54321",
+      "city": "Mesto",
+      "country": "Krajina",
+      "state": "Štát"
+    }
+  },
+  "bookAwards": [
+    {
+      "date": "2021-01-01",
+      "name": "Iná cena",
+      "year": 2021,
+      "organization_name": "Iná organizácia"
+    }
+  ],
+  "Authors": [
+    {
+      "first_name": "Eva",
+      "last_name": "Hrášková",
+      "nationality": "Česká",
+      "biography": "Životopis autora",
+      "website": "www.evahradkova.cz",
+      "birth_date": "1988-01-01"
+    }
+  ],
+  "reviews": [
+    {
+      "user_rating": 4,
+      "review_text": "Skvelá kniha!",
+      "review_date": "2024-05-10T12:00:00Z",
+      "user": {
+        "first_name": "Jana",
+        "last_name": "Malá",
+        "birth_date": "1992-01-01",
+        "gender": "Žena",
+        "age": 32,
+        "email": "jana@mala.com",
+        "address": {
+          "street": "Hlavná 10",
+          "postal_code": "12345",
+          "city": "Mesto",
+          "country": "Krajina",
+          "state": "Štát"
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664502cc105352967fb6d788"
+  },
+  "name": "Pán Prsteňov: Návrat Kráľa",
+  "year_published": 2018,
+  "ISBN": "1357902468",
+  "pageCount": 400,
+  "format": "E-book",
+  "edition": "Third Edition",
+  "publication_date": "2018-10-15",
+  "weight": 0.8,
+  "genres": {
+    "name": "Mystery",
+    "description": "Mysteriózny žáner"
+  },
+  "language": "Anglický",
+  "publisher": {
+    "name": "Vydavateľstvo Janka Kráľa",
+    "founder": "Jack Smith",
+    "website": "www.vydavatelstvojankakrala.com",
+    "address": {
+      "street": "Hlavná 20",
+      "postal_code": "98765",
+      "city": "Mesto",
+      "country": "Krajina",
+      "state": "Štát"
+    }
+  },
+  "bookAwards": [
+    {
+      "date": "2019-01-01",
+      "name": "Kniha roka",
+      "year": 2019,
+      "organization_name": "organizácia kníh"
+    }
+  ],
+  "Authors": [
+    {
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "nationality": "Americká",
+      "biography": "Životopis autora",
+      "website": "www.michaeljohnson.com",
+      "birth_date": "1975-01-01"
+    }
+  ],
+  "reviews": [
+    {
+      "user_rating": 4.8,
+      "review_text": "Najlepšia kniha, akú som kedy čítal!",
+      "review_date": "2024-05-05T12:00:00Z",
+      "user": {
+        "first_name": "Martin",
+        "last_name": "Novák",
+        "birth_date": "1980-01-01",
+        "gender": "Muž",
+        "age": 44,
+        "email": "martin@novak.com",
+        "address": {
+          "street": "Nová 5",
+          "postal_code": "54321",
+          "city": "Mesto",
+          "country": "Krajina",
+          "state": "Štát"
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664504ca105352967fb6d78a"
+  },
+  "name": "A Gentleman in Moscow: A Novel",
+  "year_published": 2017,
+  "ISBN": "978-0-670-02619-7",
+  "pageCount": 462,
+  "format": "Paperback",
+  "edition": "First Edition",
+  "publication_date": "2016-09-06",
+  "weight": 0.8,
+  "genres": {
+    "name": "Fiction",
+    "description": "A captivating novel set in post-revolutionary Russia."
+  },
+  "language": "English",
+  "publisher": {
+    "name": "Viking Press",
+    "founder": "Harold K. Guinzburg",
+    "website": "www.penguinrandomhouse.com",
+    "address": {
+      "street": "1745 Broadway",
+      "postal_code": "10019",
+      "city": "New York",
+      "country": "USA",
+      "state": "NY"
+    }
+  },
+  "bookAwards": [
+    {
+      "date": "2017-07-01",
+      "name": "New York Times Best Seller",
+      "year": 2017,
+      "organization_name": "The New York Times"
+    }
+  ],
+  "Authors": [
+    {
+      "first_name": "Amor",
+      "last_name": "Towles",
+      "nationality": "American",
+      "biography": "Amor Towles is an American author known for his historical fiction novels.",
+      "website": "www.amortowles.com",
+      "birth_date": "1964-06-11"
+    }
+  ],
+  "reviews": [
+    {
+      "user_rating": 4.7,
+      "review_text": "Absolutely delightful!",
+      "review_date": "2018-02-20T10:00:00Z",
+      "user": {
+        "first_name": "Emily",
+        "last_name": "Davis",
+        "birth_date": "1978-08-15",
+        "gender": "Female",
+        "age": 46,
+        "email": "emily@example.com",
+        "address": {
+          "street": "789 Oak Street",
+          "postal_code": "60601",
+          "city": "Chicago",
+          "country": "USA",
+          "state": "IL"
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66450599105352967fb6d78f"
+  },
+  "name": "A Higher Loyalty: Truth, Lies, and Leadership",
+  "year_published": 2018,
+  "ISBN": "978-1-324-00390-0",
+  "pageCount": 290,
+  "format": "Hardcover",
+  "edition": "First Edition",
+  "publication_date": "2018-04-17",
+  "weight": 0.9,
+  "genres": {
+    "name": "Non Fiction",
+    "description": "A memoir by James Comey, former FBI director."
+  },
+  "language": "English",
+  "publisher": {
+    "name": "Flatiron Books",
+    "founder": "Bob Miller",
+    "website": "www.flatironbooks.com",
+    "address": {
+      "street": "175 Fifth Avenue",
+      "postal_code": "10010",
+      "city": "New York",
+      "country": "USA",
+      "state": "NY"
+    }
+  },
+  "bookAwards": [
+    {
+      "date": "2019-01-01",
+      "name": "Goodreads Choice Award for Best Memoir & Autobiography",
+      "year": 2019,
+      "organization_name": "Goodreads"
+    }
+  ],
+  "Authors": [
+    {
+      "first_name": "James",
+      "last_name": "Comey",
+      "nationality": "American",
+      "biography": "James Comey is a former FBI director and author.",
+      "website": "www.jamescomey.com",
+      "birth_date": "1960-12-14"
+    }
+  ],
+  "reviews": [
+    {
+      "user_rating": 4.7,
+      "review_text": "Insightful and thought-provoking!",
+      "review_date": "2018-05-20T10:00:00Z",
+      "user": {
+        "first_name": "Lisa",
+        "last_name": "Anderson",
+        "birth_date": "1975-09-25",
+        "gender": "Female",
+        "age": 49,
+        "email": "lisa@example.com",
+        "address": {
+          "street": "789 Oak Street",
+          "postal_code": "60601",
+          "city": "Chicago",
+          "country": "USA",
+          "state": "IL"
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664505d4105352967fb6d790"
+  },
+  "name": "Becoming",
+  "year_published": 2018,
+  "ISBN": "978-1-5247-6313-8",
+  "pageCount": 448,
+  "format": "Hardcover",
+  "edition": "First Edition",
+  "publication_date": "2018-11-13",
+  "weight": 1,
+  "genres": {
+    "name": "Non Fiction",
+    "description": "A memoir by Michelle Obama, former First Lady of the United States."
+  },
+  "language": "English",
+  "publisher": {
+    "name": "Crown Publishing Group",
+    "founder": "Nat Wartels",
+    "website": "www.penguinrandomhouse.com",
+    "address": {
+      "street": "1745 Broadway",
+      "postal_code": "10019",
+      "city": "New York",
+      "country": "USA",
+      "state": "NY"
+    }
+  },
+  "bookAwards": [
+    {
+      "date": "2019-01-01",
+      "name": "Goodreads Choice Award for Best Memoir & Autobiography",
+      "year": 2019,
+      "organization_name": "Goodreads"
+    },
+    {
+      "date": "2018-12-01",
+      "name": "NAACP Image Award for Outstanding Literary Work - Biography / Autobiography",
+      "year": 2018,
+      "organization_name": "National Association for the Advancement of Colored People"
+    }
+  ],
+  "Authors": [
+    {
+      "first_name": "Michelle",
+      "last_name": "Obama",
+      "nationality": "American",
+      "biography": "Michelle Obama is an American lawyer, university administrator, and writer. She served as the First Lady of the United States from 2009 to 2017.",
+      "website": "www.michelleobama.com",
+      "birth_date": "1964-01-17"
+    }
+  ],
+  "reviews": [
+    {
+      "user_rating": 4.8,
+      "review_text": "An inspiring and empowering read!",
+      "review_date": "2019-02-15T10:00:00Z",
+      "user": {
+        "first_name": "Emily",
+        "last_name": "Wilson",
+        "birth_date": "1980-08-25",
+        "gender": "Female",
+        "age": 44,
+        "email": "emily@example.com",
+        "address": {
+          "street": "456 Elm Street",
+          "postal_code": "90001",
+          "city": "Los Angeles",
+          "country": "USA",
+          "state": "CA"
+        }
+      }
+    }
+  ]
+}]
